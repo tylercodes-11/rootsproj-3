@@ -1,0 +1,22 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.pop-post {
+    width: 200px;
+    height: 200px;
+}
+
+.searchbar {
+    margin-left: 500px; 
+}
+
+.ms-4 {
+    margin-left: (spacer * .25) 
+}
+
+.sidebar {
+    background-color: darkgray;
+    padding: 5px;
+}
